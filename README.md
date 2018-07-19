@@ -1,1 +1,1 @@
-# git-test
+# This is text example from the git tutorial
